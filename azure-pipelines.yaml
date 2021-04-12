@@ -9,7 +9,7 @@ pool:
 variables:
 - group: talend configuration
 - name: project_name
-  value: 'Internal'
+  value: 'CloudPoc'
 - name: job_name
   value: 'test'
 - name: job_version
